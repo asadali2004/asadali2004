@@ -48,3 +48,5 @@ Tech Exposure:
 I am continuously learning and improving, with the goal of becoming a reliable 
 software engineer who builds simple, scalable, and well-structured systems while 
 following good software engineering practices.
+
+LinkedIn: https://www.linkedin.com/in/asadalli/ | Email: aliasad07518@gmail.com | Portfolio: https://www.asadali.live/
