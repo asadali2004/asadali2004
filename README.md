@@ -1,52 +1,36 @@
 ## Hi, I'm Asad Ali 👋
-Final-Year Computer Science Student | Full-Stack & .NET Developer (In Training)
 
-I am a final-year B.Tech Computer Science student with hands-on experience in 
-full-stack web development and a growing interest in AI-powered applications 
-and cloud-native systems.
+**Final-Year B.Tech CS Student | Full-Stack Developer | Learning .NET & C#**
 
-I have worked on end-to-end web projects using the MERN stack, integrated 
-third-party and AI APIs, and explored cloud deployment and CI/CD fundamentals. 
-Currently, I am undergoing onsite training in the .NET framework and actively 
-learning C# with a focus on object-oriented programming, MVC concepts, and 
-clean application design.
+I build web applications and enjoy solving real-world problems through code.
 
-Alongside development, I have practical exposure to AWS and DevOps workflows, 
-including infrastructure automation and CI/CD pipelines using industry tools.
+### 🔧 What I Do
+- Full-stack development with **MERN stack** (MongoDB, Express, React, Node.js)
+- Integrate AI APIs and third-party services into web apps
+- Cloud deployment and CI/CD basics with **AWS** and **DevOps tools**
+- Currently learning **C# and .NET** with focus on OOP, MVC, and clean architecture
 
-I enjoy building practical, problem-driven applications and documenting my 
-learning clearly through clean code, structured repositories, and READMEs.
+### 💼 Training & Experience
+- **AWS & DevOps:** Hands-on with Docker, Jenkins, Terraform, Linux, and CI/CD pipelines
+- **MERN Stack:** Built secure REST APIs, authentication systems, and optimized performance
 
-Current Focus:
-- C# and .NET application development
-- Object-Oriented Design (OOPs) and MVC architecture
-- Writing clean, readable, and maintainable code
-- Understanding CI/CD pipelines and cloud deployment fundamentals
+### 🚀 Featured Projects
+- **ChatMate** – AI chatbot with secure authentication and performance tuning
+- **Rekno** – Java REST API simulating memory decay with structured data persistence
+- **AdoptiPaws** – Full-stack pet adoption platform with focus on user experience
 
-Professional Training & Exposure:
-- AWS & DevOps Trainee: Hands-on experience with AWS services, Linux, Git, 
-  Docker, Terraform, Jenkins, and CI/CD pipelines.
-- MERN Stack Training: Built secure, full-stack applications with REST APIs, 
-  authentication, and performance optimizations.
+### 🛠️ Tech Stack
+**Frontend:** React, Tailwind, HTML/CSS  
+**Backend:** Node.js, Express, .NET (learning), Java  
+**Databases:** MongoDB, MySQL  
+**DevOps:** AWS, Docker, Jenkins, Terraform, Git  
+**Languages:** JavaScript, C#, Java, SQL
 
-Key Projects:
-- ChatMate: Conversational AI chatbot with optimized API integration, secure 
-  authentication, and performance tuning.
-- Rekno: Java-based personal knowledge graph simulating memory decay with 
-  REST APIs and structured data persistence.
-- AdoptiPaws: Full-stack pet adoption platform focused on usability and 
-  engagement.
+### 🎯 Current Focus
+Building clean, maintainable applications while deepening my understanding of .NET, OOP design patterns, and cloud-native development.
 
-Tech Exposure:
-- Frontend: React, HTML, CSS, Tailwind
-- Backend: Node.js, Express.js, .NET (learning)
-- Databases: MongoDB, MySQL
-- Cloud & DevOps: AWS, Linux, Docker, Jenkins, Terraform (hands-on exposure)
-- Tools & Platforms: Git, GitHub, Postman, JIRA
-- Languages: C#, Java, JavaScript, SQL
+**Looking for:** Entry-level software engineering roles where I can contribute and grow.
 
-I am continuously learning and improving, with the goal of becoming a reliable 
-software engineer who builds simple, scalable, and well-structured systems while 
-following good software engineering practices.
+---
 
-LinkedIn: https://www.linkedin.com/in/asadalli/ | Email: aliasad07518@gmail.com | Portfolio: https://www.asadali.live/
+📫 [LinkedIn](https://www.linkedin.com/in/asadalli/) • [Email](mailto:aliasad07518@gmail.com) • [Portfolio](https://www.asadali.live/)
