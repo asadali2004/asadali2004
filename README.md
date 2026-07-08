@@ -1,36 +1,41 @@
 ## Hi, I'm Asad Ali 👋
 
-**Final-Year B.Tech CS Student | Full-Stack Developer | Learning .NET & C#**
+**Software Engineer | .NET Full-Stack Developer | Microservices | Cloud & DevOps Enthusiast**
 
-I build web applications and enjoy solving real-world problems through code.
+I build scalable, cloud-native applications and enjoy solving real-world problems through clean architecture and modern software engineering practices.
 
 ### 🔧 What I Do
-- Full-stack development with **MERN stack** (MongoDB, Express, React, Node.js)
-- Integrate AI APIs and third-party services into web apps
-- Cloud deployment and CI/CD basics with **AWS** and **DevOps tools**
-- Currently learning **C# and .NET** with focus on OOP, MVC, and clean architecture
+- Build full-stack applications using **ASP.NET Core, Angular, and SQL Server**
+- Design scalable **Microservices** with REST APIs, RabbitMQ, and API Gateway
+- Develop secure applications with **JWT Authentication, RBAC, and Clean Architecture**
+- Automate deployments using **Docker, GitHub Actions, AWS, and CI/CD**
 
 ### 💼 Training & Experience
-- **AWS & DevOps:** Hands-on with Docker, Jenkins, Terraform, Linux, and CI/CD pipelines
-- **MERN Stack:** Built secure REST APIs, authentication systems, and optimized performance
+- **.NET Full-Stack:** Hands-on experience with C#, ASP.NET Core, Web API, EF Core, LINQ, SQL Server, and Angular
+- **Cloud & DevOps:** Worked with AWS, Docker, Jenkins, Terraform, GitHub Actions, Datadog, Linux, and CI/CD pipelines
+- **Software Engineering:** Applied SOLID Principles, Repository Pattern, Clean Architecture, Agile, and Scrum
 
 ### 🚀 Featured Projects
-- **ChatMate** – AI chatbot with secure authentication and performance tuning
+- **ZyntraPay** – Production-grade digital wallet platform built with a 6-service microservices architecture using ASP.NET Core, Angular, RabbitMQ, Docker, and GitHub Actions
+- **ChatMate** – AI chatbot with secure authentication and optimized API integrations
 - **Rekno** – Java REST API simulating memory decay with structured data persistence
-- **AdoptiPaws** – Full-stack pet adoption platform with focus on user experience
+- **AdoptiPaws** – Full-stack pet adoption platform focused on user experience
 
 ### 🛠️ Tech Stack
-**Frontend:** React, Tailwind, HTML/CSS  
-**Backend:** Node.js, Express, .NET (learning), Java  
-**Databases:** MongoDB, MySQL  
-**DevOps:** AWS, Docker, Jenkins, Terraform, Git  
-**Languages:** JavaScript, C#, Java, SQL
+**Languages:** C#, Java, JavaScript, SQL  
+**Frontend:** Angular, HTML5, CSS3  
+**Backend:** ASP.NET Core, Web API, Entity Framework Core, LINQ, REST APIs, Microservices  
+**Database:** SQL Server, MongoDB, MySQL  
+**Cloud & DevOps:** AWS, Docker, GitHub Actions, Jenkins, Terraform, Linux  
+**Tools:** Git, GitHub, Swagger, Postman, Datadog, Jira
 
 ### 🎯 Current Focus
-Building clean, maintainable applications while deepening my understanding of .NET, OOP design patterns, and cloud-native development.
+Building scalable microservices, cloud-native applications, and continuously improving my expertise in software architecture, distributed systems, and DevOps.
 
-**Looking for:** Entry-level software engineering roles where I can contribute and grow.
+**Looking for:** Software Engineer / .NET Developer opportunities where I can build impactful products and continue growing as an engineer.
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/asadalli/) • [Email](mailto:aliasad07518@gmail.com) • [Portfolio](https://www.asadali.live/)
+📫 **LinkedIn:** https://www.linkedin.com/in/asadalli/  
+🌐 **Portfolio:** https://www.asadali.live/  
+📧 **Email:** aliasad07518@gmail.com
